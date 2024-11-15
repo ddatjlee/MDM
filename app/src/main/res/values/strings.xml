@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MDM</string>
+    <string name="location_placeholder">Chưa có vị trí</string>
+    <string name="image_placeholder">Chưa có ảnh</string>
+    <string name="capture_button">Chụp ảnh</string>
+    <string name="no_image_selected">Không có ảnh nào được chọn</string>
+    <string name="no_uri">Không thể tạo được URI cho ảnh</string>
+    <string name="upload_success">Tải ảnh lên thành công!</string>
+    <string name="upload_failure">Tải ảnh lên thất bại!</string>
+    <string name="connection_error">Lỗi kết nối: %1$s</string>
+    <string name="current_location"></string>
+    <string name="captured_image">Ảnh đã chụp</string>
+    <string name="no_camera_app">Không tìm thấy ứng dụng camera nào.</string>
+
+</resources>
