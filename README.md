@@ -34,7 +34,7 @@ Since this is my first project, it still has several limitations, as follows:
   
 Potential Improvements:
 + Use servers like Firebase or MongoDB to ensure the server is always online and not restricted to the same network as the mobile device.
-+ Detect "photo-taking signals" to automatically upload all images and videos from various camera apps, such as the default Camera app, B612, or Ulike.
++ Detect "photo-taking signals" to automatically upload all images and videos from various camera apps, such as the default Camera app, B612, or Ulike...
 + Address issues like disabled internet or GPS by saving data in a queue so that it can be automatically uploaded when the connection is restored.
 
 This is my first project, developed in the third year of university, so there is undoubtedly room for improvement. If anyone wants to use this application for study, work, or any other purpose, feel free to do so. I only ask that you credit me as a reference and inform me if you use it.
