@@ -2,7 +2,7 @@
 VI:
 
 Đây là app điện thoại dùng để theo dõi hành vi chụp ảnh của người dùng , nó sẽ lưu vị trí và hình ảnh của người chụp gửi vào server
-Trong ứng dụng tôi thiết kế để nó gửi hình ảnh vào server Local trong máy . chỉ cần tải thêm xampp , rồi mở server Apache của xampp lên là được.
+Trong ứng dụng tôi thiết kế để nó gửi hình ảnh vào server Local trong máy . chỉ cần tải thêm xampp , khi cài đặt xampp xong thì bỏ file upload.rar vào folder htdocs và giải nén, rồi mở server Apache của xampp lên là được.
 Sau đó bạn có thể vào ứng dụng và thay đổi thành ip của bạn là tất cả hình ảnh được chụp đều sẽ chuyển về server Local.
 
 Do đây là sản phẩm đầu tiên của tôi nên nó còn nhiều thiếu sót như sau : 
@@ -23,7 +23,7 @@ English:
 
 This is a mobile application designed to monitor photo-taking behavior. It records the user's location and captured images, sending them to a local server.
 
-In this application, I have configured it to send images to a local server hosted on your computer. All you need to do is download XAMPP, start the Apache server, and configure the app with your IP address. Once set up, all captured images will be sent to your local server.
+In this application, I have configured it to send images to a local server hosted on your computer. All you need to do is download XAMPP, after install Xampp , copy upload.rar to folder htdocs then extract, start the Apache server, and configure the app with your IP address. Once set up, all captured images will be sent to your local server.
 
 Since this is my first project, it still has several limitations, as follows:
 + Both the mobile device and the server must be connected to the same network for images to be sent successfully.
